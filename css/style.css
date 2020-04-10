@@ -6,6 +6,10 @@ html {
     background-size: cover;
 }
 
+body {
+    margin: 0;
+}
+
 .keys {
     display: flex;
     flex: 1;
